@@ -1,4 +1,3 @@
-# kodluyoruzilkrepo
 # Kodluyoruz İlk Repo
 Bu repo Kodluyoruz Fron-End Eğitimi oluşurduğumuz ilk repo. İçerisinde bir adet
 README dosyası, bir adet de index.html barındırıyor.
